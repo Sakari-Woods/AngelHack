@@ -1,7 +1,7 @@
 {
     "name": "Cedille",
     "version": "1.0",
-    "description": "Cedille makes it easy to type French text with proper accents using a QWERTY keyboard.",
+    "description": "Cedille makes it easy to type French text with proper accents using a QWERTY keyboard. After typing French, click on the Cedille button to instantly add the proper characters and accents to the active Element, or your selected text.",
     "background": {
       "scripts": ["scripts/cedille.js"],
       "persistent": true
